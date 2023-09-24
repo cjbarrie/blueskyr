@@ -1,4 +1,4 @@
-# blueskyr
+# blueskyr <img src="images/hex-blueskyr.png" width="160px" align="right"/>
 
 This is a working repository for adding functions to the `blueskyr` package as the API develops. At present, the only functions is a posting function `post_bsky()` that posts to the BlueSky platform.
 
