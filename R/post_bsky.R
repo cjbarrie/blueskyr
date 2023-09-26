@@ -3,7 +3,7 @@
 #'
 #' @param bsky_text (character) text of the BlueSky post
 #'
-#' @export httr2
+#' @import httr2
 #'
 #' @examples
 #' \dontrun{
