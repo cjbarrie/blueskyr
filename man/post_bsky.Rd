@@ -14,7 +14,6 @@ Function to post to BlueSky
 }
 \examples{
 \dontrun{
-
-post_bsky("This is my first blueskyr post")
+  post_bsky("This is my first blueskyr post")
 }
 }

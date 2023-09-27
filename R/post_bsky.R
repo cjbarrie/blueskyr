@@ -5,6 +5,7 @@
 #' \dontrun{
 #'   post_bsky("This is my first blueskyr post")
 #' }
+#' @export
 post_bsky <- function(bsky_text) {
   bsky_post <- list(
     "$type" = "app.bsky.feed.post",

@@ -8,5 +8,6 @@
 
 library(testthat)
 library(blueskyr)
+library(mockr)
 
 test_check("blueskyr")
